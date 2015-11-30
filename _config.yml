@@ -9,7 +9,7 @@ name: godL
 description: Web Developer from ztesoft
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.baidu.com
+avatar:  https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
