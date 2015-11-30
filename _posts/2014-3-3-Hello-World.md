@@ -1,6 +1,6 @@
 ---
 layout: post
-title: helloEveryBody ,欢迎各位
+title: helloEveryBody ,#欢迎各位
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
